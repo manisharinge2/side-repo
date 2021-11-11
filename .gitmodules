@@ -1,4 +1,4 @@
 [submodule "modules/aws-cloudformation-templates"]
 	path = modules/aws-cloudformation-templates
-	url = https://github.com/manisharinge2/aws-cloudformation-templates
+	url = ../aws-cloudformation-templates
 	branch = main
